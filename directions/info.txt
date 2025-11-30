@@ -1,0 +1,18 @@
+Across server connection  ----->  x
+custom exceptions 
+moves
+inheritance
+read and write files
+save in the middle of the game
+
+
+other possibilities:
+timer
+messages
+record
+
+other data:
+Josh computer lab: 10.50.0.79
+charlie apple laptop: 10.12.5.141
+
+
